@@ -1,0 +1,18 @@
+# Install and configure Google App Engine:-
+
+# installation Process 
+
+1.  Make sure that Python is installed in your system.
+2. Search “Google Cloud” on your browser.
+3. Select "Cloud SDK" tab
+4. click on gcloud CLI to install Google SDK CLI
+5. Click on Finish to start the Google Cloud SDK Shell or open the application “Google Cloud SDK Shell” and type “gcloud in it” command to begin the process.
+6. Choose 2nd option for “Creating a new configuration” or 1st option for choose the “default settings” from fig.shown below.
+7. Now choose account to login. If not logged in earlier you’ll be redirected to your browser for login with your google account. 
+Enter the credentials.
+8. Click on "Console" and open cloud shell editor.
+9. Create new file 'name.py'.
+10. Type the code. Click on Run menu tab.
+11. Click on “Start without debugging” if you want to run without debugging the program. 
+12. Proceed with default configurations .
+13. You have successfully deployed python app
