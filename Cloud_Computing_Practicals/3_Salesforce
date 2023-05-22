@@ -1,0 +1,26 @@
+# Create an application in Salesforce using Apex programming language
+
+# Apex Programming Language:-
+The Apex language is similar as a java language but some syntax and functionality is different and Visualforce is like HTML & XML language that helps to design good UI, but to provide goodUI using Visualforce page it is good to use Jscript (Java-Script).
+
+# Salesforce trailhead:-
+Trailhead helps developers migrate from Salesforce Classic to Lightning Experience, the modern development platform . which provides a great deal of declarative code so coding can be Standardized and user friendly. Modules show users how to program in Apex, and JavaScript and Visualforce.
+
+# Steps:- 
+
+1. Open your browser and search for salesforce trailhead.
+2. Click on profile and select “Hands On Orgs”.
+3. Click on Launch
+4. Click on developers console
+5. Select File name -> new -> apex class
+6. Enter class name then ok
+7. In body of the class write method.
+8. Select file menu and save file
+9. Click debug menu and select open execute anonymous window.
+10. Add above apex code in open window and click on Execute
+11. Select setting option and click on setup
+12. In your Trailhead Playground, select all apps then click on sales
+13. Select the accounts tab and click on recently viewed.
+14. Click on recently folder(sforce)
+15. Click on details
+16. See the output in description
