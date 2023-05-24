@@ -1,0 +1,11 @@
+# Design and Develop custom application using sales force cloud
+
+# lightning App:-
+The lightning app builder is a point and click tool to create a single page application for Salesforce1 and lightning Experience. 
+
+1. From the Home tab in Setup, enter App in the Quick Find box, then select App Manager.
+2. Click new Lightning App.
+3. Walk through the Lightning App Wizard, creating an app with these parameters. App Name...
+4. Click Save and Finish to exit the wizard.
+5. From the App Launcher 
+6. Check out the new app.
