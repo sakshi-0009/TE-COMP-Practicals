@@ -1,3 +1,5 @@
+# Implement a solution for a Constraint Satisfaction Problem using Branch and Bound and Backtracking for n-queens problem or a graph coloring problem.
+
 print("Enter the number queen")
 N = int(input())
 board = [[0]*N for _ in range(N)]
